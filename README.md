@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanmarcoso&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanmarcoso&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📬 Contact Me
 
