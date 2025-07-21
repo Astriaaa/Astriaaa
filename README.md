@@ -60,7 +60,7 @@ University events calendar + CRUD for departments. Built in Ionic Angular.
 
 ### 🎉 Fun Facts
 
-- 🧃 I code better when I have milk tea in hand
+- 🧃 I code better when I have ice coffee in hand
 - 🌌 I love designing **aesthetic UIs** with clean code
 - 🧩 I see bugs as brain puzzles 🧠
 - 💡 Motto: *“Build something useful and beautiful.”*
