@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Astriaaa!;Creative+IT+Student+from+PH+%F0%9F%8F%B3;Capstone+Developer+%7C+React+%7C+Firebase;Learning+Something+New+Every+Day!+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Astriaaa!;Creative+IT+Student+%F0%9F%8F%B3;Capstone+Developer+%7C+React+%7C+Firebase;Learning+Something+New+Every+Day!+%F0%9F%8C%8D" />
 </p>
 
 <!-- Neon Glow Banner -->
